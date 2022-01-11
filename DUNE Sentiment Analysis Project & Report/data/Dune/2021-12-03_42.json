@@ -1,0 +1,1416 @@
+{
+    "data": [
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:29:58.000Z",
+            "id": "1467275012273053696",
+            "possibly_sensitive": false,
+            "text": "Vanessa Hudgens should have played Paul in Dune",
+            "geo": {
+                "place_id": "42e88d76579c3d91"
+            },
+            "author_id": "28093295",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:29:49.000Z",
+            "id": "1467274974755016712",
+            "possibly_sensitive": false,
+            "text": "\"Bitterness I understand, but let us not rail about justice as long as we have arms and the freedom to use them.\" - Frank Herbert, Dune",
+            "author_id": "1290455261723996162",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:29:20.000Z",
+            "id": "1467274852075806727",
+            "possibly_sensitive": false,
+            "text": "LRT - me, who just started reading Dune AFTER the movie: yeah I am part of this group",
+            "author_id": "16352751",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:27:43.000Z",
+            "id": "1467274447195308035",
+            "possibly_sensitive": false,
+            "text": "Licorice Pizza and Dune easily my favorite movies this year I\u2019ve seen, The Card Counter probably the most slept on",
+            "author_id": "2943170275",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:27:31.000Z",
+            "id": "1467274395521622022",
+            "possibly_sensitive": false,
+            "text": "\"I'm gonna read Children of Dune, lemme just put on the Dune soundtrack for some ambience on YouTube!\" Fast forward and I've spent an hour watching fuckin YouTube shorts \ud83e\udd26\u200d\u2642\ufe0f",
+            "author_id": "1000192902859898881",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:27:24.000Z",
+            "id": "1467274366274711552",
+            "possibly_sensitive": false,
+            "text": "Dune (2021) \u2605\u2605\u2605\u2605\u2605\u2605\u2605\u2605\u2605\u2606 https://t.co/XxxVzMnLR7 #trakt",
+            "author_id": "15844145",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:26:33.000Z",
+            "id": "1467274153594179586",
+            "possibly_sensitive": false,
+            "text": "So Dune is just some story of a skinny nerd running around the desert with his hot mommy.",
+            "author_id": "1231832673934405632",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:26:13.000Z",
+            "id": "1467274069947174920",
+            "possibly_sensitive": false,
+            "text": "Dune is set in the year 10192 and the lead character's name is \"Paul\"",
+            "author_id": "1085314344626212864",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:26:08.000Z",
+            "id": "1467274047545356291",
+            "possibly_sensitive": false,
+            "text": "Am I supposed to find Chalamet's character annoying on Dune? Because it is",
+            "author_id": "951191604471189506",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:25:59.000Z",
+            "id": "1467274010010472452",
+            "possibly_sensitive": false,
+            "text": "Watching Dune at the cinema right now. \ud83d\ude0a",
+            "author_id": "1367619894905307136",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:25:37.000Z",
+            "id": "1467273918377598979",
+            "possibly_sensitive": false,
+            "text": "I may be incredibly late to the party in watching Dune\u2026but my god, Duncan Idaho has to be the most badass character with the worst fucking name in film history.",
+            "author_id": "844519807",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 10,
+                "reply_count": 4,
+                "like_count": 62,
+                "quote_count": 1
+            },
+            "created_at": "2021-12-04T23:25:21.000Z",
+            "id": "1467273852581412864",
+            "possibly_sensitive": false,
+            "text": "The final act! Our scene-by-scene Dune movie breakdown concludes: Paul's transformation, meeting with Chani, and harsh Fremen culture.\n\nWatch or listen to DUNE TALK @DuneTalkShow: https://t.co/glVQVp14UE\n\nHosts: @DuneNewsNet @JohnnySobczak @sdaoudi @DuneCompanion\n#Dune #DuneMovie",
+            "author_id": "1104157790434676737",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:25:14.000Z",
+            "id": "1467273822730698754",
+            "possibly_sensitive": false,
+            "text": "finished reading Dune and man. good book for the most part but the last 50 or so pages feel. really rushed? so much happens so fast and it just gave me whiplash cus the rest of the book was so methodical",
+            "author_id": "715728988732268544",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 7,
+                "reply_count": 0,
+                "like_count": 29,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:24:04.000Z",
+            "id": "1467273527732711435",
+            "possibly_sensitive": false,
+            "text": "It's always a thrill to watch these beautiful whales swim past #PointDefiancePark. \n\nThis video was shot on Nov. 23rd from Dune Peninsula. \nVideo credit: Cherie St.Ours\n#SRKW #DalcoPassage https://t.co/rOJrtQTMFf",
+            "author_id": "79332569",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:23:48.000Z",
+            "id": "1467273459612864513",
+            "possibly_sensitive": false,
+            "text": "Yay! Part I left me hungry for more. #dune #dunepart2 #movie\n\nhttps://t.co/rxwFjoASGR",
+            "author_id": "703204400353964032",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:23:47.000Z",
+            "id": "1467273455984857095",
+            "possibly_sensitive": false,
+            "text": "Dune, The Witcher, League Of Legends and Dungeons and Dragons are going into my favorite franchise of all time. I love getting into franchise that have a long time following such as these.",
+            "author_id": "872634751",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:23:39.000Z",
+            "id": "1467273422698737664",
+            "possibly_sensitive": false,
+            "text": "You're watching DUNE IMAX, I'm actually in the movie. We are not the same. https://t.co/o9H9T2BPao",
+            "author_id": "1329891507793395713",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:23:18.000Z",
+            "id": "1467273334379458569",
+            "possibly_sensitive": false,
+            "text": "Still catching up...\n\n#dune is real good. Some weird sound mixing things and also very weird how much of the flavor of the world was left out. But a great movie. https://t.co/EeEWLl07XB",
+            "author_id": "1164982000916271104",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:22:44.000Z",
+            "id": "1467273192809009152",
+            "possibly_sensitive": false,
+            "text": "Also Charlotte Rampling as the Abbess in \"Dune\" &gt; Charlotte Rampling as the Abbess in \"Benedetta\".",
+            "author_id": "17515151",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:22:09.000Z",
+            "id": "1467273047040221186",
+            "possibly_sensitive": false,
+            "text": "This one was for JJ. \ud83d\ude4f\n#SaturdayCereal #EntertainmentNews\n#Transient #HawkeyeSeries\n#SpiderManNoWayHome #Dune\n#Aquaman2 #BostonStrangler #TheSuicideSquad #Peacemaker #Mank #Slingshot #MagicMike3\nhttps://t.co/N8mUTAllLd",
+            "author_id": "1393363430854299656",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 9,
+                "reply_count": 0,
+                "like_count": 41,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:21:31.000Z",
+            "id": "1467272885488078848",
+            "possibly_sensitive": true,
+            "text": "So Dune... wonder when they can't find a Thumper? #DuneNSFW https://t.co/9BslMOOK73",
+            "author_id": "841587251557539840",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:20:35.000Z",
+            "id": "1467272650137509891",
+            "possibly_sensitive": false,
+            "text": "DUNE (2021) would've hit it out of the park with a better score.",
+            "author_id": "608945154",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:20:03.000Z",
+            "id": "1467272517425504261",
+            "possibly_sensitive": false,
+            "text": "I thought DUNE (2021) was one of the best adaptions of a scifi novel ever.\n\nDUNE (1984) was like a slideshow.\n\nBut I still love DUNE (1984) because David Lynch had the balls to try to make a big budget Hollywood movie while, at the same time, trying to make a David Lynch Movie.",
+            "author_id": "608945154",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 6,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:17:09.000Z",
+            "id": "1467271787931074562",
+            "possibly_sensitive": false,
+            "text": "Me watching Dune in IMAX. A freaking EPIC https://t.co/tpMS6Qfwue",
+            "geo": {
+                "place_id": "341aa0cdb944022e"
+            },
+            "author_id": "139499320",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:17:03.000Z",
+            "id": "1467271763629326352",
+            "possibly_sensitive": false,
+            "text": "It's not about spaceships anyways.... \"Dune's Big Spaceships Omission Shows Why Its Sci-Fi Works\" https://t.co/3uvokKDkAr via @screenrant #Dune #DenisVilleneuve #Spaceships #SpacingGuild #Scifi https://t.co/l38F308M8d",
+            "author_id": "14434495",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 12,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:15:54.000Z",
+            "id": "1467271472771055616",
+            "possibly_sensitive": false,
+            "text": "Telling my husband about all the hilarious Dune tweets on my feed, and he laughed and then paused and said 'Wait, Dune is still at the movies'? Guess who will be going to see it next weekend sometime ;)",
+            "author_id": "29405992",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:15:28.000Z",
+            "id": "1467271364985958406",
+            "possibly_sensitive": false,
+            "text": "did i miss something or like when did cinemas decide that charging $25 for a single ticket wasn\u2019t highway robbery. Dune better be worth the bankruptcy",
+            "author_id": "952946382",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:14:29.000Z",
+            "id": "1467271115110326277",
+            "possibly_sensitive": false,
+            "text": "\u201call paths lead into darkness.\u201d \n\n#Dune",
+            "author_id": "1409378273847545857",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:14:14.000Z",
+            "id": "1467271053412126720",
+            "possibly_sensitive": true,
+            "text": "Get my art printed on awesome products. Support me at Redbubble #RBandME:  https://t.co/5N5sZ4MTYx #findyourthing #redbubble #Dune #Zendaya #TimotheeChalamet",
+            "author_id": "2592501210",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:13:15.000Z",
+            "id": "1467270806208192514",
+            "possibly_sensitive": false,
+            "text": "Dune (2021) \u2605\u2605\u2605\u2605\u2605\u2605\u2605\u2605\u2605\u2605 https://t.co/DnE7c01JBd #trakt",
+            "author_id": "1173723275798700032",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:12:50.000Z",
+            "id": "1467270700654333960",
+            "possibly_sensitive": false,
+            "text": "Dune \n\n9,5/10 \n\nWow",
+            "author_id": "853615349283074055",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 18,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:12:24.000Z",
+            "id": "1467270592353247234",
+            "possibly_sensitive": false,
+            "text": "Os indicados a 'Melhor Dire\u00e7\u00e3o' no The Washington DC Area Film Critics Association s\u00e3o:\n\n- Kenneth Branagh (Belfast)\n- Jane Campion (The Power of the Dog)\n- David Lowery (The Green Knight)\n- Steven Spielberg (West Side Story)\n- Denis Villeneuve (Dune) https://t.co/CBlbIs2vcv",
+            "author_id": "1387180389219946497",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:11:57.000Z",
+            "id": "1467270479715221515",
+            "possibly_sensitive": false,
+            "text": "Went for Dune - loved it \ud83d\udc4c https://t.co/app7f7Z9dU",
+            "author_id": "202377004",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:11:28.000Z",
+            "id": "1467270359154139147",
+            "possibly_sensitive": false,
+            "text": "If nothing else, watching Dune in IMAX taught me that Zendaya also has gunk in the pores on her nose.  She\u2019s one of the most gorgeous women alive, so that\u2019s pretty cool.",
+            "author_id": "1330098733",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 5,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:11:27.000Z",
+            "id": "1467270355102441476",
+            "possibly_sensitive": false,
+            "text": "I feel like Im the only person that didn\u2019t enjoy Dune\u2026 \ud83d\ude05 that doesn\u2019t make me special but geeez do I feel alone. Lol",
+            "author_id": "1207458373211500544",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:11:07.000Z",
+            "id": "1467270268569669641",
+            "possibly_sensitive": false,
+            "text": "I see that Elina Nechayeva has been watching DUNE #EestiLaul",
+            "author_id": "3163843900",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:10:41.000Z",
+            "id": "1467270161484988418",
+            "possibly_sensitive": false,
+            "text": "I\u2019m going to make a playlist and call it \u201cCool Girl Vibes (but make it Black)\u201d\n\nAmy Dune has nothing on my muses",
+            "author_id": "1305230564002344960",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 6,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:10:35.000Z",
+            "id": "1467270136147193856",
+            "possibly_sensitive": false,
+            "text": "Coming Soon \u2022 DUNE screens on 35mm, The DocYard presents FAYA DAYI, IT'S A WONDERFUL LIFE returns for the holidays, and author Todd Melby presents a special screening of FARGO. Get all the details at https://t.co/EreH1Ystxr https://t.co/FwVfgFg2Gr",
+            "author_id": "31928413",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 8,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:09:26.000Z",
+            "id": "1467269845372874753",
+            "possibly_sensitive": false,
+            "text": "Saw Dune. Dune good. Not enough big worm.",
+            "author_id": "110058074",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:08:42.000Z",
+            "id": "1467269663235219460",
+            "possibly_sensitive": false,
+            "text": "; dune peeps. where are y\u2019all",
+            "author_id": "970254228190048256",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:08:14.000Z",
+            "id": "1467269543429091328",
+            "possibly_sensitive": false,
+            "text": "So far #Dune has been one of my favorite films of 2021 and by a longshot the most visually appealing! https://t.co/lfCJoqzAh5",
+            "author_id": "832053022675103744",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:08:08.000Z",
+            "id": "1467269516883378181",
+            "possibly_sensitive": false,
+            "text": "https://t.co/XLJ7MU00ff announce that verified account's Twitter Spaces has been started \ud83d\udce3\n\nTitle\uff1a#TheKentTest: Dune Edition\nHost\uff1aClarkisha\nhttps://t.co/TenXEqSWpL",
+            "author_id": "1460968328026271746",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 4,
+                "like_count": 47,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:07:13.000Z",
+            "id": "1467269286624481280",
+            "possibly_sensitive": false,
+            "text": "Finished Dune (the book) and its appendices. It was very good! I look forward to seeing how Denis Villeneuve interprets the second half for the next film.",
+            "author_id": "1403129251",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 3,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:06:06.000Z",
+            "id": "1467269005308096513",
+            "possibly_sensitive": false,
+            "text": "I finally watched the movie with the twink wandering around the desert planet with his mom. I\u2019m not talking about Dune, I\u2019m talking about Power of the Dog.",
+            "author_id": "1389533384901201926",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:05:48.000Z",
+            "id": "1467268932885270528",
+            "possibly_sensitive": false,
+            "text": "VFX:\nDune\nEternals\nFinch\nFree Guy\nGodzilla VS Kong\nJungle Cruise\nThe Matrix Resurrections\nNo Time to Die\nShang-Chi and the Legend of the Ten Rings\nThe Suicide Squad https://t.co/gx68vZrrUN",
+            "author_id": "982392021280272384",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:05:05.000Z",
+            "id": "1467268749866586113",
+            "possibly_sensitive": false,
+            "text": "My Arrakis, My Dune https://t.co/EcfJNJnLl3 https://t.co/FF9pENvkHt",
+            "author_id": "1410542674436714497",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:05:01.000Z",
+            "id": "1467268735425728521",
+            "possibly_sensitive": false,
+            "text": "Loved Dune? Check out this list from @TheMarySue of similar books by Middle Eastern and North African authors! (P.S. We have many of these in our catalog at https://t.co/zZjuPHiHPm!) https://t.co/3Y12HJmKL1",
+            "author_id": "523751032",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:04:38.000Z",
+            "id": "1467268636016582661",
+            "possibly_sensitive": false,
+            "text": "I rated Dune (2021) 9/10  #IMDb https://t.co/a1uwjmR80P",
+            "author_id": "1248143477029863431",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:03:47.000Z",
+            "id": "1467268424376193024",
+            "possibly_sensitive": false,
+            "text": "David Lynch's DUNE is on the netflix \ud83d\ude4c",
+            "author_id": "19589662",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:03:17.000Z",
+            "id": "1467268296844140553",
+            "possibly_sensitive": false,
+            "text": "Played #DuneImperium today https://t.co/nHAgLA5Obf #bggplay",
+            "author_id": "1644768391",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:02:36.000Z",
+            "id": "1467268126203326466",
+            "possibly_sensitive": false,
+            "text": "DUNE was good. Very good.\n\nI felt mild disappointment, but that's not the end of the world.\n\nThat's it...",
+            "author_id": "608945154",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:02:28.000Z",
+            "id": "1467268091272908807",
+            "possibly_sensitive": false,
+            "text": "Haven\u2019t seen Dune but here for this!! #TheKentTest https://t.co/2FbMuTQban",
+            "author_id": "1127702143283208194",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:01:50.000Z",
+            "id": "1467267934447755265",
+            "possibly_sensitive": false,
+            "text": "Love thinking about and comparing/contrasting these two scenes. How they each tell a different story of Paul\u2019s experiences with Shai-Hulud. 1/6 #Dune #PaulAtreides https://t.co/GvHQXt67rp",
+            "author_id": "4739728998",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:01:19.000Z",
+            "id": "1467267804550336518",
+            "possibly_sensitive": false,
+            "text": "based dune https://t.co/sgc7vdnGvm",
+            "author_id": "1375942734079475718",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 1,
+                "like_count": 13,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:00:52.000Z",
+            "id": "1467267689303392257",
+            "possibly_sensitive": false,
+            "text": "684 days left for the premiere of #Dune Part 2.",
+            "author_id": "1105082139970887680",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T23:00:22.000Z",
+            "id": "1467267562656485376",
+            "possibly_sensitive": false,
+            "text": "About to go watch Dune! Pretty excited :)",
+            "author_id": "824041336366133252",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 17,
+                "reply_count": 46,
+                "like_count": 419,
+                "quote_count": 8
+            },
+            "created_at": "2021-12-04T23:00:08.000Z",
+            "id": "1467267503743193092",
+            "possibly_sensitive": false,
+            "text": "Ridley Scott says he quit Dune because he didn't want to shoot in Mexico City: https://t.co/g0fUoiQq7I https://t.co/jN0WH6jtLq",
+            "author_id": "7157132",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:59:37.000Z",
+            "id": "1467267374290128896",
+            "possibly_sensitive": false,
+            "text": "A #GURPS #Dune campaign using #FantasyGrounds. The agents of House Dannan lead an attack on a captured Fremen Sietch in order to secure hidden spice stores.\n\nhttps://t.co/PMG5Ewy2HC",
+            "author_id": "1034323675300818944",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 2,
+                "like_count": 11,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:59:04.000Z",
+            "id": "1467267239049154564",
+            "possibly_sensitive": false,
+            "text": "THE FOOLS\nref sheet for Lost and Found characters- Dune, Mud Puppy, and Muppy :D\nI unironically kinda wanna pair up Dune and Mud Puppy and make them date like later in the comic but hhhmhmjhm https://t.co/3xkzVLXa28",
+            "author_id": "1326157768085147648",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:58:13.000Z",
+            "id": "1467267023159836675",
+            "possibly_sensitive": false,
+            "text": "Your First Look at Dune: A Whisper of Caladan Seas #1 #Comics #ComicBooks #Dune https://t.co/yBpgWxgts4",
+            "author_id": "101322683",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 1
+            },
+            "created_at": "2021-12-04T22:58:10.000Z",
+            "id": "1467267010572664834",
+            "possibly_sensitive": false,
+            "text": "\u201cI really like the way that candle smells. It reminds me of what I imagine spice in DUNE would smell like,\u201d says @Aburnstine \n\nthe candle is Cardamom Milk by @otherlandhome",
+            "author_id": "464829091",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:56:58.000Z",
+            "id": "1467266706892640258",
+            "possibly_sensitive": false,
+            "text": "#NowPlaying on Nightshift:\nDune - Can't Stop Raving.\nTune In Live, on:\nhttps://t.co/3zLViUU1KO https://t.co/3O2kVx0CIU",
+            "author_id": "379414545",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 2,
+                "like_count": 9,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:56:15.000Z",
+            "id": "1467266527795855371",
+            "possibly_sensitive": false,
+            "text": "Dune https://t.co/Kp2CFpOx8L",
+            "author_id": "945338500567781381",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 6,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:56:07.000Z",
+            "id": "1467266495457730560",
+            "possibly_sensitive": false,
+            "text": "going to stand up and boo throughout dune any time they pronounce anything that isn\u2019t the way i think it should be pronounced",
+            "author_id": "298002363",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:55:58.000Z",
+            "id": "1467266456823820288",
+            "possibly_sensitive": false,
+            "text": "Best film for me, too! Amazing movie. Love it! #Dune #DuneMovie https://t.co/RFaRj1VAdQ",
+            "author_id": "99217973",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:55:38.000Z",
+            "id": "1467266373680349187",
+            "possibly_sensitive": false,
+            "text": "Sonically, if World Problems: Lightbringers is my Black Ops II, then World Problems: Cherubim will be my Dune. I\u2019m so fucking psyched to finally be able to do this story justice and work with @MellieMelody and @RobPanico to get this album right and elevate all of our production.",
+            "author_id": "1273475648816910336",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:55:28.000Z",
+            "id": "1467266329442930691",
+            "possibly_sensitive": false,
+            "text": "Having just watched Dune, now all I want to do is play Dune 2000.",
+            "author_id": "21666257",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:55:16.000Z",
+            "id": "1467266281875271680",
+            "possibly_sensitive": false,
+            "text": "DUNE will win the Oscar for being a better movie/spectacle https://t.co/G6YY5pNN1U",
+            "author_id": "113700273",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:55:07.000Z",
+            "id": "1467266243182964737",
+            "possibly_sensitive": false,
+            "text": "\u201cArrakis Is Arrakis, And The Desert Takes The Weak. My Desert. My Arrakis. My Dune.\u201d https://t.co/W2UNYILvpI",
+            "author_id": "1215738376302858241",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:54:20.000Z",
+            "id": "1467266045148733452",
+            "possibly_sensitive": false,
+            "text": "Love her! Great article . #actorslife Francine Maisler, THR\u2019s Casting Director of the Year, on Dune, Don\u2019t Look Up \u2013 The Hollywood Reporter https://t.co/AB7jm74kqw",
+            "author_id": "232286391",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:53:28.000Z",
+            "id": "1467265828391370753",
+            "possibly_sensitive": false,
+            "text": "So sick! @StonedApeCrew Loved the latest #DUNE movie and the book too! #PUFF https://t.co/e2Jk6frHQ6",
+            "author_id": "2370985358",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:53:16.000Z",
+            "id": "1467265776726036483",
+            "possibly_sensitive": false,
+            "text": "Saw it again last Wednesday, with a group of friends, on IMAX here in Montreal. They\u2019d never seen it, and we\u2019re blown away. It was my 3rd, but first time on IMAX. Majestic and immersive are qualities that came to mind! #Dune #DuneMovie https://t.co/D1Xa5ELhO2",
+            "author_id": "14434495",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 2,
+                "like_count": 12,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:52:45.000Z",
+            "id": "1467265645490229248",
+            "possibly_sensitive": false,
+            "text": "I'm still laughing at this dumb #Dune thing I made. I aspire to be @DankDuneMemes https://t.co/aq4OlKORWL",
+            "author_id": "38213",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:52:36.000Z",
+            "id": "1467265607842156549",
+            "possibly_sensitive": false,
+            "text": "A #Flirt4Free friend just hit me with a 1001 credit tip! Generosity is so sexy! https://t.co/iJCIN8u9Et https://t.co/KjrvBVoEsv",
+            "author_id": "1308690211061280769",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:52:28.000Z",
+            "id": "1467265578264109072",
+            "possibly_sensitive": false,
+            "text": "That cat was one of the big things missing from the new dune movie https://t.co/8NhbXCBSCu",
+            "author_id": "179815178",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 3,
+                "quote_count": 1
+            },
+            "created_at": "2021-12-04T22:51:29.000Z",
+            "id": "1467265326769336322",
+            "possibly_sensitive": false,
+            "text": "Saw Dune with @TVandCrumpets in IMAX. Best decision all year. 10/10 https://t.co/YKwurzlNiz",
+            "author_id": "1342580417870712833",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:51:12.000Z",
+            "id": "1467265256653266944",
+            "possibly_sensitive": false,
+            "text": "cphil getting tommy using afuckin dune fear mantra to overcome literal trauma and being in a dangerous situation like aight asswipe i rlly hope u got what u deserved",
+            "author_id": "1057973742796763136",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:50:30.000Z",
+            "id": "1467265080568029188",
+            "possibly_sensitive": false,
+            "text": "Watched the 1984 Dune for the first time in decades. It really has no middle, does it?",
+            "author_id": "20917712",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:50:25.000Z",
+            "id": "1467265061118898176",
+            "possibly_sensitive": false,
+            "text": "I feel like the composer for the new Dune film was playing The Talos Principle at the desert world really recently",
+            "author_id": "14224852",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 3,
+                "reply_count": 4,
+                "like_count": 71,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:49:56.000Z",
+            "id": "1467264940272541697",
+            "possibly_sensitive": false,
+            "text": "Saw #Dune on the big screen last night. \n\nOne word review: wow.",
+            "author_id": "778055836094435328",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:49:12.000Z",
+            "id": "1467264752103661574",
+            "possibly_sensitive": false,
+            "text": "Dune &amp; Interstellar soundtrack\u2019s were both composed by Hans Zimmer and he did so good on both. Absolutely beautiful",
+            "author_id": "1284808027141484545",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:47:38.000Z",
+            "id": "1467264358677979138",
+            "possibly_sensitive": false,
+            "text": "Time hasn\u2019t been kind to Charlie\u2019s Angels. Must be all that spice. @NetflixUK #Netflix #Dune https://t.co/PrpjDNwvuj",
+            "author_id": "40739833",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 4,
+                "like_count": 14,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:46:38.000Z",
+            "id": "1467264108907024388",
+            "possibly_sensitive": false,
+            "text": "Gonna go see Dune. I have extremely low expectations, but it will be interesting to see a movie in the theater for the first time in...a couple years?",
+            "author_id": "391669453",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 5,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:46:15.000Z",
+            "id": "1467264010189828101",
+            "possibly_sensitive": false,
+            "text": "On third viewing, #Dune becomes a masterwork to me. Ethereal &amp; enveloping, Villeneuve\u2019s visual scope is matched in a personal journey regarding the cost of destiny, free will vs. expectation, and family legacy. It also didn\u2019t hurt getting to sit in on an in-person Q&amp;A with Denis https://t.co/SIwqZP75Vg",
+            "author_id": "2249210762",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 5,
+                "reply_count": 2,
+                "like_count": 52,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:45:32.000Z",
+            "id": "1467263831713931273",
+            "possibly_sensitive": false,
+            "text": "Me at holiday parties the last few weeks.\n\nEverything is DUNE. It\u2019s like a language in my head. I have to reverse engineer my brain to allow translation into whatever it is normal people speak. https://t.co/CK6nSVK767",
+            "author_id": "2484802959",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 0,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:45:27.000Z",
+            "id": "1467263809735827462",
+            "possibly_sensitive": false,
+            "text": "\u201cDune\u2019s\u201d dazzling effects, mystical score, cinematic world-building, and powerful performances sand away the film\u2019s few rough edges.\n\n9.5 out of 12 Tamales\n\n#Dune #TimotheeChalamet #Zendaya #OscarIsaac #RebeccaFerguson #JasonMomoa #JavierBardem #DaveBautista #JoshBrolin #HBOMax https://t.co/ulE2onfjA5",
+            "author_id": "916514042885410816",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 5,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:45:02.000Z",
+            "id": "1467263707482931204",
+            "possibly_sensitive": false,
+            "text": "The Advanced Technology Behind the Massive Dune Universe https://t.co/XqLyq5gDJl https://t.co/keC0FZR2Rb\n\nArguably more than any other book, Dune taught people to take science fiction seriously - and here's the science.\n\nCredit Matthew S Williams @IntEngineering \n#Dune #scifi https://t.co/lmpJMMRcpA",
+            "author_id": "912267034938966016",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:44:09.000Z",
+            "id": "1467263484488413186",
+            "possibly_sensitive": false,
+            "text": "My desert.\nMy Arrakis.\nMy DUNE.",
+            "author_id": "849920857862356992",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 1,
+                "like_count": 2,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:43:51.000Z",
+            "id": "1467263406906478595",
+            "possibly_sensitive": false,
+            "text": "Dune was actually good, but the whole film is literally just a set up for more films. Enjoyed it but it\u2019s underwhelming, how can your first film feel like the middle film",
+            "author_id": "626660516",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:43:43.000Z",
+            "id": "1467263374627069963",
+            "possibly_sensitive": false,
+            "text": "This is my desert. My Arrakis. My Dune.",
+            "author_id": "618152582",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:43:07.000Z",
+            "id": "1467263224651288576",
+            "possibly_sensitive": false,
+            "text": "I really liked Dune!",
+            "author_id": "933947956205535232",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 5,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:42:56.000Z",
+            "id": "1467263177377337344",
+            "possibly_sensitive": false,
+            "text": "TFW when you make the bookstore get one of the Dune books out of basement storage.\n\nBut first, a re-read! https://t.co/0EGSM0aBMc",
+            "author_id": "228972246",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:42:13.000Z",
+            "id": "1467262996137365508",
+            "possibly_sensitive": false,
+            "text": "doja tour outfits always giving Dune https://t.co/GbLhQeEmmq",
+            "author_id": "1425239017365426180",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 170,
+                "reply_count": 40,
+                "like_count": 1538,
+                "quote_count": 40
+            },
+            "created_at": "2021-12-04T22:41:52.000Z",
+            "id": "1467262907729780741",
+            "possibly_sensitive": false,
+            "text": "I love the dune fandom cause one of our biggest complaints is they cut out a dinner party scene lol like seriously?? what a bunch of nerds",
+            "author_id": "1357379803180064770",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:41:27.000Z",
+            "id": "1467262804214403074",
+            "possibly_sensitive": false,
+            "text": "Dune should\u2019ve been made into a tv series, not movies.",
+            "author_id": "198338536",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 1,
+                "reply_count": 11,
+                "like_count": 52,
+                "quote_count": 3
+            },
+            "created_at": "2021-12-04T22:40:43.000Z",
+            "id": "1467262620877033472",
+            "possibly_sensitive": false,
+            "text": "Everything besides Spider Man &amp; Matrix has screened  by now. What are you predicting for the Oscar shortlists in a few weeks?\n\nVFX:\nDon't Look Up\nDune\nFinch\nGodzilla vs Kong\nJungle Cruise\nThe Matrix Resurrections\nNo Time to Die\nShang Chi\nSpider Man: No Way Home\nThe Suicide Squad",
+            "author_id": "251757612",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:39:22.000Z",
+            "id": "1467262278705762308",
+            "possibly_sensitive": false,
+            "text": "dune walked so star wars could run",
+            "author_id": "457600450",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:38:06.000Z",
+            "id": "1467261958907109377",
+            "possibly_sensitive": false,
+            "text": "(\"THIS IS DUNE SPEAKING\")",
+            "author_id": "785499436046659585",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:37:59.000Z",
+            "id": "1467261931991932928",
+            "possibly_sensitive": false,
+            "text": "DUNE Clip - \"Sandworm Scene\" 2021 Warner Bros https://t.co/bEpxeFr2i2 via @YouTube \n#Dune #WarnerBros #Shorts #Dune2021 #DuneMovie",
+            "author_id": "3335253539",
+            "lang": "en"
+        },
+        {
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 4,
+                "quote_count": 0
+            },
+            "created_at": "2021-12-04T22:37:07.000Z",
+            "id": "1467261711732428800",
+            "possibly_sensitive": false,
+            "text": "Went for a Dune rewatch, this time in IMAX and oh boy, what an amazing audiovisual feast. Definitely worth it.",
+            "author_id": "25358577",
+            "lang": "en"
+        }
+    ],
+    "meta": {
+        "newest_id": "1467275012273053696",
+        "oldest_id": "1467261711732428800",
+        "result_count": 100,
+        "next_token": "b26v89c19zqg8o3fpdy8idie6o23svm3nve916sa8yf0d"
+    }
+}
